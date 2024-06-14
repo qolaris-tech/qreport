@@ -1,27 +1,6 @@
-# qreport
-
 #### 介绍
 记录机器学习在量化上的相关论文研报。
 
-#### 软件架构
-软件架构说明
+#### 公众号文章
+[AI量化预测股票走势背后逻辑](https://mp.weixin.qq.com/s/O-VB7IEY53k3ZwNGWDIZ5g)
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
